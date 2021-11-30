@@ -1,0 +1,5 @@
+questoes 
+1ª o que é ma branch?
+2ª o que é um merge?
+1R= as branch são ramificaçoes do main, onde se pode desenvolver  e testar antes do codigo final
+2R= a união de duas branch.
